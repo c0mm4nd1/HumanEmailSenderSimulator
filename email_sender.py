@@ -37,7 +37,7 @@ print(f"""
                                                                                                                                       
                                                                                                                                       
                                                                                                                                       
-                                                                                            Human Simulator Email Sender - For Red Teamers V.1
+                                                                                            Human Email Sender Simulator - For Red Teamers V.1
                                                                                             By C0mm4nd1
 {RESET}                                                  
 """)
