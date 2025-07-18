@@ -48,7 +48,7 @@ You can embed an image (e.g., a QR code or branding asset) into the HTML body of
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Execute
 
 1. **Run the tool**:
    ```bash
